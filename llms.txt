@@ -30,4 +30,7 @@ No account, no personal data. iOS keeps the list of blocked apps on the device a
 ## Pages
 - [Home](https://tristan-hub.github.io/detoxscreen/)
 - [Support and FAQ](https://tristan-hub.github.io/detoxscreen/support.html)
+- [Free alternatives to Opal and one sec](https://tristan-hub.github.io/detoxscreen/alternatives.html)
+- [How to block TikTok and Instagram on iPhone](https://tristan-hub.github.io/detoxscreen/block-tiktok-instagram-iphone.html)
+- [Version française](https://tristan-hub.github.io/detoxscreen/fr/)
 - [Privacy policy](https://tristan-hub.github.io/detoxscreen/privacy.html)
